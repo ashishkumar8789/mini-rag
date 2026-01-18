@@ -1,0 +1,13 @@
+Renewable energy technologies are transforming the global energy landscape, offering sustainable alternatives to fossil fuels. Solar photovoltaic (PV) systems convert sunlight directly into electricity using semiconductor materials, with costs dropping dramatically over the past decade.
+
+Wind energy harnesses kinetic energy from moving air through turbine blades connected to generators. Offshore wind farms benefit from stronger and more consistent winds, though they face higher installation and maintenance costs.
+
+Hydropower remains the largest source of renewable electricity worldwide, using flowing water to turn turbines. While large dams have environmental impacts, small-scale hydro and run-of-river systems offer more sustainable alternatives.
+
+Geothermal energy taps into the Earth's internal heat, providing consistent baseload power. This technology is particularly viable in regions with volcanic activity or high geothermal gradients.
+
+Bioenergy includes various forms from traditional biomass burning to advanced biofuels. Modern bioenergy with carbon capture and storage (BECCS) can actually remove CO2 from the atmosphere.
+
+Energy storage technologies like lithium-ion batteries, pumped hydro storage, and emerging technologies such as hydrogen storage are crucial for managing the intermittent nature of solar and wind power.
+
+The transition to renewable energy faces challenges including grid integration, energy storage capacity, and the need for supportive policies and infrastructure. However, the declining costs and improving efficiency of renewable technologies are making them increasingly competitive with fossil fuels.
