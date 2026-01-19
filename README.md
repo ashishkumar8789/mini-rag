@@ -20,7 +20,8 @@ A production-ready **Mini RAG (Retrieval-Augmented Generation)** application tha
 - SQL
 - Web Development  
 
-**GitHub:** https://github.com/231210026-hub  
+ 
+**Resume:** https://drive.google.com/file/d/1hUqmP5lKEJQq7ZcwGtR0hr9tWm1rsON6/view?usp=drive_link  
 
 ---
 
@@ -126,3 +127,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/231210026-hub/mini-rag.git
 cd mini-rag
+
